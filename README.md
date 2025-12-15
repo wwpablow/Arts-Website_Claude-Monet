@@ -14,7 +14,7 @@
 ## 📦 使用方式 / 浏览方式
 
 1. 可直接访问 / 部署到你自己的 GitHub Pages：  
-   > https://你的用户名.github.io/Arts-Website_Claude-Monet/  
+   > https://wwpablow.github.io/Arts-Website_Claude-Monet/  
 2. 若需在本地运行／查看，可通过静态服务器（例如 VS Code Live Server）打开根目录的 `index.html`。  
 
 ## 🛠 开发与部署
