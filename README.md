@@ -8,6 +8,7 @@
 - **Biography** 页面介绍莫奈的一生与重要历程。  
 - **Artworks / Map** 页面提供莫奈作品与其地理／历史背景。  
 - **About** 页面说明网站的创建目的与设计思路。  
+<img width="1876" height="958" alt="image" src="https://github.com/user-attachments/assets/ccc00124-b261-4ef7-9907-ffeb6a103c6e" />
 
 总体来说，本项目是一个关于莫奈艺术与人生的线上导览，适合艺术爱好者与研究者浏览。
 
